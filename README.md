@@ -26,4 +26,5 @@ There are three nodes. They can be independently launched using the .launch file
   - laserTracker.launch (follows the closest point in the laser range data)
   
 **DISCLAIMER: I wrote this code to familiarize myself with robotics and it probably does not follow best practices.**
+文档：https://github.com/YDLIDAR/YDLidar-SDK/blob/master/doc/howto/how_to_build_and_install.md
 官网：https://oshwhub.com/liguanxi/mini-smart-car
